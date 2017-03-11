@@ -9,7 +9,7 @@
   letter-spacing: 3px;
 }
 
-#block {
+#highlightBlock {
   position: absolute;
   margin-top: 10px;
   width: 15px;
@@ -22,7 +22,7 @@
 }
 
 #next-letter {
-  font-size: 38px;  
+  font-size: 45px; 
 }
 
 .keys-row {
@@ -30,7 +30,7 @@
   padding: 10px 0;
 }
 
-#words-typed {
+#feedback {
   font-size: 20px;
 }
 .glyphicon-ok {
@@ -41,3 +41,6 @@
   color : #CD2626
 }
 
+ .highlight {
+   background-color: yellow;
+ }
